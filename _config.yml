@@ -9,7 +9,7 @@ name: Irwansyah
 description: A software engineer with high aptitude to learn
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/393533?v=3&s=460
+avatar: https://avatars0.githubusercontent.com/u/393533
 
 #
 # Flags below are optional
@@ -47,7 +47,7 @@ url: http://irwansyahwii.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "https://github.com/irwansyahwii/irwansyahwii.github.io"
+baseurl: "https://irwansyahwii.github.io/irwansyahwii.github.io/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
